@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+ <!-- Trees -->
+
+ <project path="device/oneplus/kebab" name="https://github.com/LineageOS/android_device_oneplus_kebab.git" remote="github" revision="lineage-20" />
+
+ <project path="device/oneplus/sm8250-common" name="https://github.com/LineageOS/android_device_oneplus_sm8250-common.git" remote="github" revision="lineage-20" />
+
+ <project path="vendor/oneplus/kebab" name="https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_oneplus_kebab.git" remote="gitlab" revision="thirteen" />
+ <project path="vendor/oneplus/sm8250-common" name="https://github.com/Evolution-X-Devices/vendor_oneplus_sm8250-common.git" remote="github" revision="tiramisu" />
+
+ <project path="kernel/oneplus/sm8250" name="https://github.com/LineageOS/android_kernel_oneplus_sm8250.git" remote="github" revision="lineage-20" />
+
+ <project path="hardware/oplus" name="https://github.com/LineageOS/android_hardware_oplus.git" remote="github" revision="lineage-20"
+
+</manifest>
